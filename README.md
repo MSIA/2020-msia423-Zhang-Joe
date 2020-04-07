@@ -1,5 +1,8 @@
 # MSiA423 Template Repository
 
+Author: Zihao (Joe) Zhang
+QA: Zekai (Zach) Zhu 
+
 <!-- toc -->
 
 - [Directory structure](#directory-structure)
